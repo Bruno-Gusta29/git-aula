@@ -2,3 +2,5 @@
 Alunos do 3C 
 
 Estudamos sobre o git e como criar o repositorio local, todos participaram
+
+Hoje o Brasil vai ganhar!!
